@@ -10,11 +10,11 @@ export function Footer({ titulo, parrafo }) {
             <div className="flex flex-col items-center md:items-start mb-8"> 
               <span className="text-2xl font-bold mb-6">SOCIAL</span> 
               <div className="flex">
-                <a href="#" className="mx-1"><img src="src/assets/linkedin.svg" alt="LinkedIn" className="h-5 w-5 filter invert" /></a>
-                <a href="#" className="mx-1"><img src="src/assets/github.svg" alt="GitHub" className="h-5 w-5 filter invert" /></a>
-                <a href="#" className="mx-1"><img src="src/assets/twitter.svg" alt="Twitter" className="h-5 w-5 filter invert" /></a>
-                <a href="#" className="mx-1"><img src="src/assets/book-open-solid.svg" alt="Email" className="h-5 w-5 filter invert" /></a>
-                <a href="#" className="mx-1"><img src="src/assets/youtube.svg" alt="YouTube" className="h-5 w-5 filter invert" /></a>
+                <a href="#" className="mx-1"><img src="https://raw.githubusercontent.com/DavidValdezateGarciaLlefia/DavidValdezateDAW_M9_PR6IntegracioDeContingutsInteractius/9e8efe03afe612676aa8aee3cf59ea4ad36e1357/src/assets/linkedin.svg" alt="LinkedIn" className="h-5 w-5 filter invert" /></a>
+                <a href="#" className="mx-1"><img src="https://raw.githubusercontent.com/DavidValdezateGarciaLlefia/DavidValdezateDAW_M9_PR6IntegracioDeContingutsInteractius/9e8efe03afe612676aa8aee3cf59ea4ad36e1357/src/assets/github.svg" alt="GitHub" className="h-5 w-5 filter invert" /></a>
+                <a href="#" className="mx-1"><img src="https://raw.githubusercontent.com/DavidValdezateGarciaLlefia/DavidValdezateDAW_M9_PR6IntegracioDeContingutsInteractius/9e8efe03afe612676aa8aee3cf59ea4ad36e1357/src/assets/twitter.svg" alt="Twitter" className="h-5 w-5 filter invert" /></a>
+                <a href="#" className="mx-1"><img src="https://raw.githubusercontent.com/DavidValdezateGarciaLlefia/DavidValdezateDAW_M9_PR6IntegracioDeContingutsInteractius/9e8efe03afe612676aa8aee3cf59ea4ad36e1357/src/assets/book-open-solid.svg" alt="Email" className="h-5 w-5 filter invert" /></a>
+                <a href="#" className="mx-1"><img src="https://raw.githubusercontent.com/DavidValdezateGarciaLlefia/DavidValdezateDAW_M9_PR6IntegracioDeContingutsInteractius/9e8efe03afe612676aa8aee3cf59ea4ad36e1357/src/assets/youtube.svg" alt="YouTube" className="h-5 w-5 filter invert" /></a>
               </div>
             </div>
           </div>
