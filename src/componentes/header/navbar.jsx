@@ -7,7 +7,7 @@ export function Navbar(){
     return(
         <nav className="fixed top-0 z-50 w-full shadow-xl bg-white border-gray-200 px-2 sm:px-4 py-2.5 text-gray-900">
           <div className="flex justify-between items-center w-full max-w-full">
-            <Avatar avatar={"src/assets/avatar.png"} nombre={"DAVID VALDEZATE"} />        
+            <Avatar avatar={"https://raw.githubusercontent.com/DavidValdezateGarciaLlefia/DavidValdezateDAW_M9_PR6IntegracioDeContingutsInteractius/main/src/assets/avatar.png"} nombre={"DAVID VALDEZATE"} />        
 
             <button data-collapse-toggle="navbar-default" type="button" className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 " aria-controls="navbar-default" aria-expanded="false">
                 <span className="sr-only">Open main menu</span>
